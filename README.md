@@ -1,2 +1,2 @@
 # MaryLive
-website
+Projet permettant la retransmission vidéo en direct.
